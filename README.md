@@ -1,1 +1,1 @@
-# harvardx_capstone2
+# HarvardX Capstone Project number 2
